@@ -1,2 +1,2 @@
-# jp
-My portfolio website
+# glowfit
+Amazon affiliates
